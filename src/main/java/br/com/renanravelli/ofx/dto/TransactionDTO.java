@@ -1,4 +1,4 @@
-package br.com.coop.poc.conciliacao.dto;
+package br.com.renanravelli.ofx.dto;
 
 
 import lombok.Getter;

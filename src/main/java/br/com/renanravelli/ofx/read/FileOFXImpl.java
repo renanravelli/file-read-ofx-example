@@ -1,7 +1,7 @@
-package br.com.coop.poc.conciliacao.read;
+package br.com.renanravelli.ofx.read;
 
-import br.com.coop.poc.conciliacao.dto.TransactionDTO;
-import br.com.coop.poc.conciliacao.mapper.TransactionMapper;
+import br.com.renanravelli.ofx.dto.TransactionDTO;
+import br.com.renanravelli.ofx.mapper.TransactionMapper;
 import com.webcohesion.ofx4j.domain.data.MessageSetType;
 import com.webcohesion.ofx4j.domain.data.ResponseEnvelope;
 import com.webcohesion.ofx4j.domain.data.banking.BankStatementResponseTransaction;

@@ -1,6 +1,6 @@
-package br.com.coop.poc.conciliacao.read;
+package br.com.renanravelli.ofx.read;
 
-import br.com.coop.poc.conciliacao.dto.TransactionDTO;
+import br.com.renanravelli.ofx.dto.TransactionDTO;
 
 import java.util.List;
 

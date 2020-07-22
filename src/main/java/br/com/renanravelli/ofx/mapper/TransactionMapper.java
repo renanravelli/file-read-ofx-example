@@ -1,6 +1,6 @@
-package br.com.coop.poc.conciliacao.mapper;
+package br.com.renanravelli.ofx.mapper;
 
-import br.com.coop.poc.conciliacao.dto.TransactionDTO;
+import br.com.renanravelli.ofx.dto.TransactionDTO;
 import com.webcohesion.ofx4j.domain.data.common.Transaction;
 import org.mapstruct.Mapper;
 

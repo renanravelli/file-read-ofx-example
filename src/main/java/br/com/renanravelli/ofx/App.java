@@ -1,7 +1,7 @@
-package br.com.coop.poc.conciliacao;
+package br.com.renanravelli.ofx;
 
-import br.com.coop.poc.conciliacao.dto.TransactionDTO;
-import br.com.coop.poc.conciliacao.read.FileOFX;
+import br.com.renanravelli.ofx.dto.TransactionDTO;
+import br.com.renanravelli.ofx.read.FileOFX;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
